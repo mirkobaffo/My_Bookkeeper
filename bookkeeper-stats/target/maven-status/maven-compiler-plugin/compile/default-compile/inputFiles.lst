@@ -1,0 +1,14 @@
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/annotations/package-info.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/Counter.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/NullStatsLogger.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/CachingStatsProvider.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/NullStatsProvider.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/StatsLogger.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/OpStatsLogger.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/Stats.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/Gauge.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/OpStatsData.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/StatsProvider.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/annotations/StatsDoc.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/CachingStatsLogger.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/package-info.java
