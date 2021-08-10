@@ -1,0 +1,9 @@
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/impl/NativeUtils.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/impl/CpuAffinityJni.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/impl/package-info.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/CpuAffinity.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/package-info.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/target/nar/nar-generated/org/apache/bookkeeper/utils/affinity/NarSystem.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/impl/ProcessorsInfo.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/impl/IsolatedProcessors.java
+/Users/mirko/git/My_Bookkeeper/cpu-affinity/src/main/java/org/apache/bookkeeper/common/util/affinity/impl/CpuAffinityImpl.java

@@ -1,0 +1,5 @@
+org/apache/bookkeeper/tools/framework/TestCli$TestNestedFlags.class
+org/apache/bookkeeper/tools/framework/commands/TestCommand.class
+org/apache/bookkeeper/tools/framework/TestCli.class
+org/apache/bookkeeper/tools/framework/TestCli$TestFlags.class
+org/apache/bookkeeper/tools/framework/CliTest.class

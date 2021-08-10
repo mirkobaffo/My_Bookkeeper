@@ -1,0 +1,28 @@
+Error : The following option is required: [-id | --ledgerId]
+
+Usage:  ledger [flags]
+
+Flags:
+
+    -id, --ledgerId (*)
+        Specific ledger id
+
+    -l, --ledgeridformatter
+        Set ledger id formatter
+
+    -m, --meta
+        Print meta information
+
+
+    -h, --help
+        Display help information
+
+===== LEDGER: 1 =====
+===== LEDGER: 1 =====
+master key  : 
+size         : 0
+entries      : 0
+isFenced     : false
+===== LEDGER: 1 =====
+entry 1	:	(log: 1, pos: 1)
+===== LEDGER: 1 =====

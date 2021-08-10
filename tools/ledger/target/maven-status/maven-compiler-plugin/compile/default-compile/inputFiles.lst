@@ -1,0 +1,11 @@
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/BKCtl.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/AutoRecoveryCommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/bookieid/SearchReplaceBookieIdCommand.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/LedgerCommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/package-info.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/BookieIdCommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/bookieid/package-info.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/CookieCommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/package-info.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/BookieCommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/ledger/src/main/java/org/apache/bookkeeper/tools/cli/commands/BookiesCommandGroup.java

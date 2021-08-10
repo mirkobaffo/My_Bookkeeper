@@ -1,0 +1,3 @@
+2021-08-09 18:37:19,083 - ERROR - [main:ReadLogMetadataCommand@100] - Missing entry log id or entry log file name
+2021-08-09 18:37:19,102 - INFO  - [main:ReadLogMetadataCommand@130] - Print entryLogMetadata of entrylog 1 (1.log)
+2021-08-09 18:37:19,107 - INFO  - [main:ReadLogMetadataCommand@134] - --------- Lid=1, TotalSizeOfEntriesOfLedger=1  ---------

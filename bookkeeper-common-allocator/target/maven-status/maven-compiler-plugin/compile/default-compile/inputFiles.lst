@@ -1,0 +1,8 @@
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/package-info.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/ByteBufAllocatorBuilder.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/impl/package-info.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/impl/ByteBufAllocatorImpl.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/impl/ByteBufAllocatorBuilderImpl.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/OutOfMemoryPolicy.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/LeakDetectionPolicy.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-common-allocator/src/main/java/org/apache/bookkeeper/common/allocator/PoolingPolicy.java

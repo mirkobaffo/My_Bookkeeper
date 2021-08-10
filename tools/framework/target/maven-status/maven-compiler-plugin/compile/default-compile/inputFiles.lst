@@ -1,0 +1,14 @@
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/CliSpec.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/CliCommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/common/BKCommand.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/Cli.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/package-info.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/common/BKCommandCategories.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/CliCommand.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/CommandUtils.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/CommandGroup.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/Command.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/CliFlags.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/common/package-info.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/common/BKFlags.java
+/Users/mirko/git/My_Bookkeeper/tools/framework/src/main/java/org/apache/bookkeeper/tools/framework/HelpCommand.java

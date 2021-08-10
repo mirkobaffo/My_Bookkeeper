@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="12.0.5 -dynamic -bundle -fexceptions -lstdc++">
+      <target file="libcpu-affinity.jnilib" lastModified="17b2bc24533">
+         <source file="../../../../obj/x86_64-MacOSX-gpp/affinity_jni.a582f604.o" lastModified="17b2bc23d51"/>
+      </target>
+   </processor>
+</history>

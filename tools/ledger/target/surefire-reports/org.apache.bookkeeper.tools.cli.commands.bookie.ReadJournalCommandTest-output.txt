@@ -1,0 +1,4 @@
+2021-08-09 18:38:21,512 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
+2021-08-09 18:38:21,556 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
+2021-08-09 18:38:21,574 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
+2021-08-09 18:38:21,587 - INFO  - [main:ReadJournalCommand@170] - ERROR: You should figure jounalId or journal filename

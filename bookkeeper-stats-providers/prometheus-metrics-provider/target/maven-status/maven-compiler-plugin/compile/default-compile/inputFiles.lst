@@ -1,0 +1,9 @@
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/LongAdderCounter.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusMetricsProvider.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/DataSketchesOpStatsLogger.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusStatsLogger.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/SimpleGauge.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusServlet.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/ScopeContext.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusTextFormatUtil.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/package-info.java

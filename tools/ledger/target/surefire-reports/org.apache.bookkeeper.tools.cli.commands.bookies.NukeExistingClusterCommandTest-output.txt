@@ -1,0 +1,21 @@
+Error : The following option is required: [-p | --zkledgersrootpath]
+
+Usage:  nukeexistingcluster [flags]
+
+Flags:
+
+    -f, --force
+        If instance id is not specified, then whether to force nuke the
+        metadata without validating instance id
+
+    -i, --instanceid
+        instance id
+
+    -p, --zkledgersrootpath (*)
+        zookeeper ledgers root path
+
+
+    -h, --help
+        Display help information
+
+2021-08-09 18:36:22,019 - ERROR - [main:NukeExistingClusterCommand@82] - Either force option or instanceid should be specified (but no both)

@@ -1,0 +1,5 @@
+2021-08-09 18:36:27,559 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-09 18:36:27,706 - INFO  - [main:DecommissionCommand@97] - The ledgers stored in the given decommissioning bookie: ac9db7c9-265d-4be5-a068-01d184cfd1e6 are properly replicated
+2021-08-09 18:36:27,708 - INFO  - [main:DecommissionCommand@112] - Cookie of the decommissioned bookie: ac9db7c9-265d-4be5-a068-01d184cfd1e6 is deleted successfully
+2021-08-09 18:36:27,738 - INFO  - [main:DecommissionCommand@97] - The ledgers stored in the given decommissioning bookie: c0d0497e-fbda-482e-b29f-3aa594525bac are properly replicated
+2021-08-09 18:36:27,739 - INFO  - [main:DecommissionCommand@112] - Cookie of the decommissioned bookie: c0d0497e-fbda-482e-b29f-3aa594525bac is deleted successfully

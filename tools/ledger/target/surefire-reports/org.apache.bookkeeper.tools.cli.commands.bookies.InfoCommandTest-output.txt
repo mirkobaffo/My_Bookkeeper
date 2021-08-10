@@ -1,0 +1,4 @@
+2021-08-09 18:36:31,991 - INFO  - [main:InfoCommand@85] - Free disk space info:
+2021-08-09 18:36:32,024 - INFO  - [main:InfoCommand@90] - BookieID:localhost:9999, IP:127.0.0.1, Port:9999, Hostname:localhost:	Free: 0	Total: 0
+2021-08-09 18:36:32,033 - INFO  - [main:InfoCommand@109] - Total free disk space in the cluster:	0
+2021-08-09 18:36:32,034 - INFO  - [main:InfoCommand@110] - Total disk capacity in the cluster:	0
