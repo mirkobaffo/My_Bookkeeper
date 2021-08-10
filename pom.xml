@@ -200,11 +200,11 @@
     <spotbugs-maven-plugin.version>3.1.8</spotbugs-maven-plugin.version>
     <forkCount.variable>1</forkCount.variable>
     <servlet-api.version>4.0.0</servlet-api.version>
-	  <sonar.projectKey>danielemariano:${project.groupId}:${project.artifactId}</sonar.projectKey>
-    <sonar.links.homepage>https://github.com/danielemariano/bookkeeper-test</sonar.links.homepage>
-    <sonar.links.ci>https://travis-ci.com/danielemariano/bookkeeper-test</sonar.links.ci>
-    <sonar.links.scm>https://github.com/danielemariano/bookkeeper-test</sonar.links.scm>
-    <sonar.links.issue>https://github.com/danielemariano/bookkeeper-test/issues</sonar.links.issue>
+	  <sonar.projectKey>mirkobaffo:${project.groupId}:${project.artifactId}</sonar.projectKey>
+    <sonar.links.homepage>https://github.com/mirkobaffo/My_Bookkeeper</sonar.links.homepage>
+    <sonar.links.ci>https://travis-ci.com/mirkobaffo/My_Bookkeeper</sonar.links.ci>
+    <sonar.links.scm>https://github.com/mirkobaffo/My_Bookkeeper</sonar.links.scm>
+    <!--<sonar.links.issue>https://github.com/mirkobaffo/My_Bookkeeper/issues</sonar.links.issue> -->
     <aggregate.report.dir>tests/target/site/jacoco-aggregate/jacoco.xml</aggregate.report.dir>
   </properties>
 
@@ -827,14 +827,13 @@
     <pluginManagement>
       <plugins>
 		<plugin>
-          <groupId>org.sonarsource.scanner.maven</groupId>
-          <artifactId>sonar-maven-plugin</artifactId>
-          <version>3.6.0.1398</version>
+           <groupId>org.sonarsource.scanner.maven</groupId>
+    	   <artifactId>sonar-maven-plugin</artifactId>
+    	   <version>3.9.0.2155</version>
         </plugin>
         <plugin>
     		<groupId>org.codehaus.mojo</groupId>
    			<artifactId>sonar-maven-plugin</artifactId>
-  			<version>3.0.2</version>
 		</plugin>
         <plugin>
           <groupId>org.jacoco</groupId>
