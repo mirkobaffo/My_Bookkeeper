@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.apache.bookkeeper.tools.cli.commands.cookie.CreateCookieCommandTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.8 s - in org.apache.bookkeeper.tools.cli.commands.cookie.CreateCookieCommandTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.004 s - in org.apache.bookkeeper.tools.cli.commands.cookie.CreateCookieCommandTest

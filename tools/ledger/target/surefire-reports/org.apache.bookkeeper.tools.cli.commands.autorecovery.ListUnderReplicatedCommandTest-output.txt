@@ -1,15 +1,15 @@
-2021-08-09 18:35:50,706 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-09 18:35:51,161 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
-2021-08-09 18:35:51,165 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
-2021-08-09 18:35:51,200 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
-2021-08-09 18:35:51,200 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
-2021-08-09 18:35:51,212 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
-2021-08-09 18:35:51,213 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
-2021-08-09 18:35:51,226 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
-2021-08-09 18:35:51,227 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
-2021-08-09 18:35:51,228 - INFO  - [main:ListUnderReplicatedCommand@154] - 	MissingReplica : replica
-2021-08-09 18:35:51,242 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
-2021-08-09 18:35:51,243 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
-2021-08-09 18:35:51,248 - INFO  - [main:ListUnderReplicatedCommand@162] - 	ReplicationWorkerId : test
-2021-08-09 18:35:51,258 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
-2021-08-09 18:35:51,258 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-10 12:17:44,557 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-10 12:17:44,985 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-10 12:17:44,990 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-10 12:17:45,033 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-10 12:17:45,034 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-10 12:17:45,047 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-10 12:17:45,047 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-10 12:17:45,063 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-10 12:17:45,064 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-10 12:17:45,066 - INFO  - [main:ListUnderReplicatedCommand@154] - 	MissingReplica : replica
+2021-08-10 12:17:45,086 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-10 12:17:45,086 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-10 12:17:45,092 - INFO  - [main:ListUnderReplicatedCommand@162] - 	ReplicationWorkerId : test
+2021-08-10 12:17:45,103 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-10 12:17:45,103 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1

@@ -1,5 +1,5 @@
-2021-08-09 18:36:27,559 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-09 18:36:27,706 - INFO  - [main:DecommissionCommand@97] - The ledgers stored in the given decommissioning bookie: ac9db7c9-265d-4be5-a068-01d184cfd1e6 are properly replicated
-2021-08-09 18:36:27,708 - INFO  - [main:DecommissionCommand@112] - Cookie of the decommissioned bookie: ac9db7c9-265d-4be5-a068-01d184cfd1e6 is deleted successfully
-2021-08-09 18:36:27,738 - INFO  - [main:DecommissionCommand@97] - The ledgers stored in the given decommissioning bookie: c0d0497e-fbda-482e-b29f-3aa594525bac are properly replicated
-2021-08-09 18:36:27,739 - INFO  - [main:DecommissionCommand@112] - Cookie of the decommissioned bookie: c0d0497e-fbda-482e-b29f-3aa594525bac is deleted successfully
+2021-08-10 12:18:23,114 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-10 12:18:23,262 - INFO  - [main:DecommissionCommand@97] - The ledgers stored in the given decommissioning bookie: 2c6eefa5-f823-4db0-aa74-eef0744c3db0 are properly replicated
+2021-08-10 12:18:23,265 - INFO  - [main:DecommissionCommand@112] - Cookie of the decommissioned bookie: 2c6eefa5-f823-4db0-aa74-eef0744c3db0 is deleted successfully
+2021-08-10 12:18:23,298 - INFO  - [main:DecommissionCommand@97] - The ledgers stored in the given decommissioning bookie: fb8e9e31-2074-41e8-b62b-a19889ae69fe are properly replicated
+2021-08-10 12:18:23,299 - INFO  - [main:DecommissionCommand@112] - Cookie of the decommissioned bookie: fb8e9e31-2074-41e8-b62b-a19889ae69fe is deleted successfully

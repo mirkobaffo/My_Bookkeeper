@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.apache.bookkeeper.tools.cli.commands.bookies.RecoverCommandTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.561 s - in org.apache.bookkeeper.tools.cli.commands.bookies.RecoverCommandTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.815 s - in org.apache.bookkeeper.tools.cli.commands.bookies.RecoverCommandTest

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.apache.bookkeeper.tools.cli.commands.bookies.MetaFormatCommandTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.251 s - in org.apache.bookkeeper.tools.cli.commands.bookies.MetaFormatCommandTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.408 s - in org.apache.bookkeeper.tools.cli.commands.bookies.MetaFormatCommandTest

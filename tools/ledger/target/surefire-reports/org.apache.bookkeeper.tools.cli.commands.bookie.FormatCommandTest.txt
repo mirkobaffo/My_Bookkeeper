@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.apache.bookkeeper.tools.cli.commands.bookie.FormatCommandTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.478 s - in org.apache.bookkeeper.tools.cli.commands.bookie.FormatCommandTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.503 s - in org.apache.bookkeeper.tools.cli.commands.bookie.FormatCommandTest

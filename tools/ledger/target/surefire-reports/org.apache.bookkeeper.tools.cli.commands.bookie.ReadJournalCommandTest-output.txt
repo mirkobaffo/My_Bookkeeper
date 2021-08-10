@@ -1,4 +1,4 @@
-2021-08-09 18:38:21,512 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
-2021-08-09 18:38:21,556 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
-2021-08-09 18:38:21,574 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
-2021-08-09 18:38:21,587 - INFO  - [main:ReadJournalCommand@170] - ERROR: You should figure jounalId or journal filename
+2021-08-10 12:20:19,918 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
+2021-08-10 12:20:19,970 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
+2021-08-10 12:20:19,994 - INFO  - [main:ReadJournalCommand@197] - Scan journal 1 (1.txn)
+2021-08-10 12:20:20,016 - INFO  - [main:ReadJournalCommand@170] - ERROR: You should figure jounalId or journal filename

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <history>
    <processor signature="12.0.5 -dynamic -bundle -fexceptions -lstdc++">
-      <target file="libcirce-checksum.jnilib" lastModified="17b2bc21702">
-         <source file="../../../../obj/x86_64-MacOSX-gpp/crc32c_sse42.df07d43d.o" lastModified="17b2bc2108a"/>
-         <source file="../../../../obj/x86_64-MacOSX-gpp/crc32c_sse42_jni.308b823.o" lastModified="17b2bc21010"/>
+      <target file="libcirce-checksum.jnilib" lastModified="17b2f8eaa05">
+         <source file="../../../../obj/x86_64-MacOSX-gpp/crc32c_sse42.df07d43d.o" lastModified="17b2f8ea39a"/>
+         <source file="../../../../obj/x86_64-MacOSX-gpp/crc32c_sse42_jni.308b823.o" lastModified="17b2f8ea319"/>
       </target>
    </processor>
 </history>
