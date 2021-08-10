@@ -13,33 +13,33 @@ JAVA_OPTS=null
 [INFO] os.detected.arch: x86_64
 [INFO] os.detected.classifier: osx-x86_64
 [INFO] 
-[INFO] ----------< org.apache.bookkeeper:bookkeeper-tools-framework >----------
-[INFO] Building Apache BookKeeper :: Tools :: Framework 4.14.0-SNAPSHOT
+[INFO] ------< org.apache.bookkeeper.stats:prometheus-metrics-provider >-------
+[INFO] Building Apache BookKeeper :: Stats Providers :: Prometheus 4.14.0-SNAPSHOT
 [INFO] --------------------------------[ jar ]---------------------------------
 [INFO] 
-[INFO] >>> maven-javadoc-plugin:3.1.1:javadoc (default-cli) > generate-sources @ bookkeeper-tools-framework >>>
+[INFO] >>> maven-javadoc-plugin:3.1.1:javadoc (default-cli) > generate-sources @ prometheus-metrics-provider >>>
 [INFO] 
-[INFO] --- maven-enforcer-plugin:1.4.1:enforce (enforce-maven-version) @ bookkeeper-tools-framework ---
+[INFO] --- maven-enforcer-plugin:1.4.1:enforce (enforce-maven-version) @ prometheus-metrics-provider ---
 [INFO] 
-[INFO] <<< maven-javadoc-plugin:3.1.1:javadoc (default-cli) < generate-sources @ bookkeeper-tools-framework <<<
+[INFO] <<< maven-javadoc-plugin:3.1.1:javadoc (default-cli) < generate-sources @ prometheus-metrics-provider <<<
 [INFO] 
 [INFO] 
-[INFO] --- maven-javadoc-plugin:3.1.1:javadoc (default-cli) @ bookkeeper-tools-framework ---
+[INFO] --- maven-javadoc-plugin:3.1.1:javadoc (default-cli) @ prometheus-metrics-provider ---
 [INFO] 
 Loading source files for package org.apache.bookkeeper.client...
 1 error
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  4.294 s
-[INFO] Finished at: 2021-08-09T18:33:45+02:00
+[INFO] Total time:  4.129 s
+[INFO] Finished at: 2021-08-10T12:16:09+02:00
 [INFO] ------------------------------------------------------------------------
-[ERROR] Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.1.1:javadoc (default-cli) on project bookkeeper-tools-framework: An error has occurred in Javadoc report generation: 
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.1.1:javadoc (default-cli) on project prometheus-metrics-provider: An error has occurred in Javadoc report generation: 
 [ERROR] Exit code: 2 - javadoc: error - No source files for package org.apache.bookkeeper.client
 [ERROR] 
 [ERROR] Command line was: /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/javadoc @options
 [ERROR] 
-[ERROR] Refer to the generated Javadoc files in '/Users/mirko/git/My_Bookkeeper/tools/framework/target/site/apidocs' dir.
+[ERROR] Refer to the generated Javadoc files in '/Users/mirko/git/My_Bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/target/site/apidocs' dir.
 [ERROR] -> [Help 1]
 [ERROR] 
 [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
