@@ -78,7 +78,6 @@ public class WriteCacheTest {
                 cache.put(ledgerId, entryId, entry);
             }
         }
-        //commento
         for(int c = 0; c <10; c ++) {
              assertEquals(entry, get(1));
              assertEquals((cache.get(c,c)),entry);
