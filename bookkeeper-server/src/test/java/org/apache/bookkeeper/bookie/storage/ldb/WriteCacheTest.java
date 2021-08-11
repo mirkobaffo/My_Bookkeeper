@@ -80,7 +80,7 @@ public class WriteCacheTest {
    @Test
     public void testForDeleteAndGet(){
         WriteCache cache = new WriteCache(allocator, maxCacheSize,bufferSize);
-        ByteBuf entry = Unpooled.buffer(bufferSize);
+        ByteBuf entry = allocator.buffer(bufferSize);
         entry.writerIndex(entry.capacity());
         //inserisco una serie di entry nella cache per poi andarle a cercare ed eliminare per testare i due metodi
         for (long ledgerId = 0; ledgerId < 10; ledgerId++) {
