@@ -20,10 +20,12 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
-import org.junit.runner.RunWith;
 import org.junit.Test;
+import java.util.Collection;
+import org.junit.experimental.categories.Category;
+import org.junit.runner.RunWith;
 
-@RunWith(parametrized.class)
+@RunWith(parameterized.class)
 public class WriteCacheTest {
 
     private ByteBufAllocator allocator;
