@@ -1,9 +1,9 @@
-2021-08-10 12:19:37,689 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-10 12:19:38,187 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,208 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,219 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,229 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,243 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,257 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,270 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
-2021-08-10 12:19:38,280 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,003 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-11 14:14:23,442 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,457 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,467 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,474 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,486 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,507 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,517 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully
+2021-08-11 14:14:23,525 - INFO  - [main:BookieImpl@1594] - Bookie format completed successfully

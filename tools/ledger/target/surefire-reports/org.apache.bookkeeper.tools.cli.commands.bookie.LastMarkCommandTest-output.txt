@@ -1,3 +1,3 @@
-2021-08-10 12:20:23,835 - INFO  - [main:LastMarkCommand@61] - LastLogMark : Journal Id - 0(0.txn), Pos - 0
-2021-08-10 12:20:23,843 - INFO  - [main:LastMarkCommand@61] - LastLogMark : Journal Id - 0(0.txn), Pos - 0
-2021-08-10 12:20:23,845 - INFO  - [main:LastMarkCommand@61] - LastLogMark : Journal Id - 0(0.txn), Pos - 0
+2021-08-11 14:15:09,856 - INFO  - [main:LastMarkCommand@61] - LastLogMark : Journal Id - 0(0.txn), Pos - 0
+2021-08-11 14:15:09,864 - INFO  - [main:LastMarkCommand@61] - LastLogMark : Journal Id - 0(0.txn), Pos - 0
+2021-08-11 14:15:09,866 - INFO  - [main:LastMarkCommand@61] - LastLogMark : Journal Id - 0(0.txn), Pos - 0

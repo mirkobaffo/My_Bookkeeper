@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/Icpu-affinity/target/nar/javah-include /I../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include /I../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/darwin">
+      <source file="../../javah-include/org_apache_bookkeeper_common_util_affinity_impl_CpuAffinityJni.h" lastModified="17b351f2132">
+         <include file="../../../../../../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/jni.h"/>
+      </source>
+      <source file="../../../../src/main/affinity/cpp/affinity_jni.c" lastModified="17ace64b7bb">
+         <include file="../../javah-include/org_apache_bookkeeper_common_util_affinity_impl_CpuAffinityJni.h"/>
+      </source>
+   </includePath>
+</dependencies>

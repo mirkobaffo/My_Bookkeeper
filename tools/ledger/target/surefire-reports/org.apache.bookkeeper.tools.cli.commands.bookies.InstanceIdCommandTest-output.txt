@@ -1,2 +1,2 @@
-2021-08-10 12:18:13,613 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-10 12:18:13,880 - INFO  - [main:InstanceIdCommand@56] - Metadata Service Uri: null InstanceId: 
+2021-08-11 14:12:52,590 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-11 14:12:52,869 - INFO  - [main:InstanceIdCommand@56] - Metadata Service Uri: null InstanceId: 

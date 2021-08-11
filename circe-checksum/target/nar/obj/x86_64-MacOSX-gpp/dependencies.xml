@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/Icirce-checksum/target/nar/javah-include /I../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include /I../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/darwin">
+      <source file="../../../../src/main/circe/include/int_types.h" lastModified="17ace64a42d">
+      </source>
+      <source file="../../../../src/main/circe/cpp/gf2.hpp" lastModified="17ace64a045">
+         <include file="../../../../src/main/circe/include/int_types.h"/>
+      </source>
+      <source file="../../../../src/main/circe/cpp/crc32c_sse42.cpp" lastModified="17ace64b3cc">
+         <include file="../../../../src/main/circe/include/crc32c_sse42.hpp"/>
+         <include file="../../../../src/main/circe/cpp/gf2.hpp"/>
+      </source>
+      <source file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h" lastModified="17b351f0dc2">
+         <include file="../../../../../../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/jni.h"/>
+      </source>
+      <source file="../../../../src/main/circe/include/crc32c_sse42.hpp" lastModified="17ace649c5d">
+         <include file="../../../../src/main/circe/include/int_types.h"/>
+      </source>
+      <source file="../../../../src/main/circe/cpp/crc32c_sse42_jni.cpp" lastModified="17ace64a044">
+         <include file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h"/>
+         <include file="../../../../src/main/circe/include/crc32c_sse42.hpp"/>
+      </source>
+   </includePath>
+</dependencies>

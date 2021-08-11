@@ -1,25 +1,25 @@
-2021-08-10 12:19:59,683 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
-2021-08-10 12:19:59,703 - INFO  - [main:SanityTestCommand@102] - Written 10 entries in ledger 1
-2021-08-10 12:19:59,714 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
-2021-08-10 12:19:59,715 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
-2021-08-10 12:19:59,715 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
-2021-08-10 12:19:59,765 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
-2021-08-10 12:19:59,765 - INFO  - [main:SanityTestCommand@102] - Written 1 entries in ledger 1
-2021-08-10 12:19:59,771 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
-2021-08-10 12:19:59,771 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
-2021-08-10 12:19:59,771 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
-2021-08-10 12:19:59,801 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
-2021-08-10 12:19:59,802 - INFO  - [main:SanityTestCommand@102] - Written 1 entries in ledger 1
-2021-08-10 12:19:59,808 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
-2021-08-10 12:19:59,808 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
-2021-08-10 12:19:59,809 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
-2021-08-10 12:19:59,842 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
-2021-08-10 12:19:59,845 - INFO  - [main:SanityTestCommand@102] - Written 10 entries in ledger 1
-2021-08-10 12:19:59,854 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
-2021-08-10 12:19:59,854 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
-2021-08-10 12:19:59,854 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
-2021-08-10 12:19:59,873 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
-2021-08-10 12:19:59,877 - INFO  - [main:SanityTestCommand@102] - Written 10 entries in ledger 1
-2021-08-10 12:19:59,882 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
-2021-08-10 12:19:59,883 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
-2021-08-10 12:19:59,884 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
+2021-08-11 14:14:45,664 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
+2021-08-11 14:14:45,673 - INFO  - [main:SanityTestCommand@102] - Written 10 entries in ledger 1
+2021-08-11 14:14:45,681 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
+2021-08-11 14:14:45,681 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
+2021-08-11 14:14:45,681 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
+2021-08-11 14:14:45,726 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
+2021-08-11 14:14:45,727 - INFO  - [main:SanityTestCommand@102] - Written 1 entries in ledger 1
+2021-08-11 14:14:45,731 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
+2021-08-11 14:14:45,731 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
+2021-08-11 14:14:45,732 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
+2021-08-11 14:14:45,757 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
+2021-08-11 14:14:45,758 - INFO  - [main:SanityTestCommand@102] - Written 1 entries in ledger 1
+2021-08-11 14:14:45,762 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
+2021-08-11 14:14:45,763 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
+2021-08-11 14:14:45,763 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
+2021-08-11 14:14:45,790 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
+2021-08-11 14:14:45,794 - INFO  - [main:SanityTestCommand@102] - Written 10 entries in ledger 1
+2021-08-11 14:14:45,799 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
+2021-08-11 14:14:45,800 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
+2021-08-11 14:14:45,800 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
+2021-08-11 14:14:45,818 - INFO  - [main:SanityTestCommand@95] - Create ledger 1
+2021-08-11 14:14:45,820 - INFO  - [main:SanityTestCommand@102] - Written 10 entries in ledger 1
+2021-08-11 14:14:45,824 - INFO  - [main:SanityTestCommand@123] - Read 10 entries from ledger 1
+2021-08-11 14:14:45,825 - INFO  - [main:SanityTestCommand@130] - Deleted ledger 1
+2021-08-11 14:14:45,825 - INFO  - [main:SanityTestCommand@136] - Bookie sanity test succeeded
