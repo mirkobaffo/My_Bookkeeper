@@ -25,7 +25,7 @@ import java.util.Collection;
 import org.junit.experimental.categories.Category;
 import org.junit.runner.RunWith;
 
-@RunWith(parameterized.class)
+@RunWith(Parameterized.class)
 public class WriteCacheTest {
 
     private ByteBufAllocator allocator;
