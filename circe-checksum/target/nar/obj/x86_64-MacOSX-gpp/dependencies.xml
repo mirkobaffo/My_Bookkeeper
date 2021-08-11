@@ -10,7 +10,7 @@
          <include file="../../../../src/main/circe/include/crc32c_sse42.hpp"/>
          <include file="../../../../src/main/circe/cpp/gf2.hpp"/>
       </source>
-      <source file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h" lastModified="17b351f0dc2">
+      <source file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h" lastModified="17b3555e2f2">
          <include file="../../../../../../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/jni.h"/>
       </source>
       <source file="../../../../src/main/circe/include/crc32c_sse42.hpp" lastModified="17ace649c5d">
