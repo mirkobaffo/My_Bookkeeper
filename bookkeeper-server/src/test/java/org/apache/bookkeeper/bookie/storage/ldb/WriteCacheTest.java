@@ -75,7 +75,7 @@ public class WriteCacheTest {
     }
 
 
-   @Test
+   /*@Test
     public void testForDeleteAndGet(){
         WriteCache cache = new WriteCache(allocator, maxCacheSize,bufferSize);
         ByteBuf entry = Unpooled.buffer(bufferSize);
@@ -93,5 +93,5 @@ public class WriteCacheTest {
              cache.deleteLedger(d);
              assertEquals(cache.get(d,d), null);
             } 
-    } 
+    } */
 }
