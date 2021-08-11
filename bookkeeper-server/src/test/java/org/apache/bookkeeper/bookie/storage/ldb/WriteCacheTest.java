@@ -60,24 +60,24 @@ public class WriteCacheTest {
         System.out.println("sono qui");
         assertTrue(cache.isEmpty());
         System.out.println("sono qua");
-        //assertEquals(0, cache.count());
-        //assertEquals(0, cache.size());
+        assertEquals(0, cache.count());
+        assertEquals(0, cache.size());
         cache.put(1, 1, entry1);
         assertFalse(cache.isEmpty());
-        //assertEquals(1, cache.count());
-        //assertEquals(entry1.readableBytes(), cache.size());
-        //assertEquals(entry1, cache.getLastEntry(1));
-        //assertEquals(null, cache.getLastEntry(2));
+        assertEquals(1, cache.count());
+        assertEquals(entry1.readableBytes(), cache.size());
+        assertEquals(entry1, cache.getLastEntry(1));
+        assertEquals(null, cache.getLastEntry(2));
         cache.clear();
         assertTrue(cache.isEmpty());
-        //assertEquals(0, cache.count());
-        //assertEquals(0, cache.size());
+        assertEquals(0, cache.count());
+        assertEquals(0, cache.size());
         entry1.release();
         cache.close();
     }
 
 
-   /*@Test
+   @Test
     public void testForDeleteAndGet(){
         WriteCache cache = new WriteCache(allocator, maxCacheSize,bufferSize);
         ByteBuf entry = Unpooled.buffer(bufferSize);
@@ -95,6 +95,6 @@ public class WriteCacheTest {
              cache.deleteLedger(d);
              assertEquals(cache.get(d,d), null);
             } 
-    } */
+    } 
     
 }
