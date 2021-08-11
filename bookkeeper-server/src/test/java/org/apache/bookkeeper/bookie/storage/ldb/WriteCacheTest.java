@@ -90,6 +90,7 @@ public class WriteCacheTest {
         }
         for(int c = 0; c <10; c ++) {
         	long d = (long)0 + (long)c;
+        	//vediamo se corrisponde
              assertEquals((cache.get(d,d)),entry);
              cache.deleteLedger(d);
              assertEquals(cache.get(d,d), null);
