@@ -97,6 +97,7 @@ org/apache/bookkeeper/client/ZoneawareEnsemblePlacementPolicy.class
 org/apache/bookkeeper/tools/cli/commands/bookie/FormatCommand.class
 org/apache/bookkeeper/sasl/SaslClientState.class
 org/apache/bookkeeper/client/api/DigestType.class
+org/apache/bookkeeper/client/ClientUtil.class
 org/apache/bookkeeper/proto/BookieProtoEncoding.class
 org/apache/bookkeeper/proto/BookieProtoEncoding$ResponseEncoder.class
 org/apache/bookkeeper/meta/LongZkLedgerIdGenerator$2.class
@@ -591,6 +592,7 @@ org/apache/bookkeeper/metastore/InMemoryMetastoreTable$2.class
 org/apache/bookkeeper/proto/BookieNettyServer$1.class
 org/apache/bookkeeper/client/BookieInfoReader$BookieInfoMap.class
 org/apache/bookkeeper/client/BookKeeper$SyncLedgerIterator.class
+org/apache/bookkeeper/conf/TestBKConfiguration.class
 org/apache/bookkeeper/tools/cli/commands/bookie/ReadLogCommand$ReadLogFlags.class
 org/apache/bookkeeper/bookie/BookieShell$LedgerCmd.class
 org/apache/bookkeeper/server/http/service/ListUnderReplicatedLedgerService.class

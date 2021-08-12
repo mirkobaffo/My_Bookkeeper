@@ -1,105 +1,10 @@
 ====> TEST TIMED OUT. PRINTING THREAD DUMP. <====
 
-Timestamp: 2021-08-12 07:16:04,901
+Timestamp: 2021-08-12 08:43:58,030
 
-"Finalizer" daemon prio=8 tid=3 in Object.wait()
-java.lang.Thread.State: WAITING (on object monitor)
-        at java.base@11.0.11/java.lang.Object.wait(Native Method)
-        at java.base@11.0.11/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-        at java.base@11.0.11/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
-        at java.base@11.0.11/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
-"SThread-6" daemon prio=5 tid=20 in Object.wait()
-java.lang.Thread.State: WAITING (on object monitor)
-        at java.base@11.0.11/jdk.internal.misc.Unsafe.park(Native Method)
-        at java.base@11.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
-        at java.base@11.0.11/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goSyncDeadlock(TestTimedOutTestsListener.java:114)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.syncLock(TestTimedOutTestsListener.java:103)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:90)
-"SThread-4" daemon prio=5 tid=18 in Object.wait()
-java.lang.Thread.State: WAITING (on object monitor)
-        at java.base@11.0.11/jdk.internal.misc.Unsafe.park(Native Method)
-        at java.base@11.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
-        at java.base@11.0.11/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goSyncDeadlock(TestTimedOutTestsListener.java:114)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.syncLock(TestTimedOutTestsListener.java:103)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:90)
-"Common-Cleaner" daemon prio=8 tid=11 timed_waiting
-java.lang.Thread.State: TIMED_WAITING
-        at java.base@11.0.11/java.lang.Object.wait(Native Method)
-        at java.base@11.0.11/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-        at java.base@11.0.11/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
-        at java.base@11.0.11/java.lang.Thread.run(Thread.java:829)
-        at java.base@11.0.11/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:134)
-"surefire-forkedjvm-command-thread" daemon prio=5 tid=13 runnable
-java.lang.Thread.State: RUNNABLE
-        at java.base@11.0.11/java.io.FileInputStream.readBytes(Native Method)
-        at java.base@11.0.11/java.io.FileInputStream.read(FileInputStream.java:279)
-        at java.base@11.0.11/java.io.BufferedInputStream.read1(BufferedInputStream.java:290)
-        at java.base@11.0.11/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
-        at java.base@11.0.11/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
-        at java.base@11.0.11/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
-        at java.base@11.0.11/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
-        at app//org.apache.maven.surefire.api.util.internal.Channels$3.readImpl(Channels.java:214)
-        at app//org.apache.maven.surefire.api.util.internal.AbstractNoninterruptibleReadableChannel.read(AbstractNoninterruptibleReadableChannel.java:54)
-        at app//org.apache.maven.surefire.booter.spi.LegacyMasterProcessChannelDecoder.decode(LegacyMasterProcessChannelDecoder.java:80)
-        at app//org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:343)
-        at java.base@11.0.11/java.lang.Thread.run(Thread.java:829)
-"Time-limited test" daemon prio=5 tid=14 runnable
-java.lang.Thread.State: RUNNABLE
-        at java.base@11.0.11/java.lang.Thread.dumpThreads(Native Method)
-        at java.base@11.0.11/java.lang.Thread.getAllStackTraces(Thread.java:1653)
-        at app//org.apache.bookkeeper.common.testing.util.TimedOutTestsListener.buildThreadDump(TimedOutTestsListener.java:86)
-        at app//org.apache.bookkeeper.common.testing.util.TimedOutTestsListener.buildThreadDiagnosticString(TimedOutTestsListener.java:72)
-        at app//org.apache.bookkeeper.common.testing.util.TimedOutTestsListener.testFailure(TimedOutTestsListener.java:61)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener.testThreadDumpAndDeadlocks(TestTimedOutTestsListener.java:165)
-        at java.base@11.0.11/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-        at java.base@11.0.11/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-        at java.base@11.0.11/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-        at java.base@11.0.11/java.lang.reflect.Method.invoke(Method.java:566)
-        at app//org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
-        at app//org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-        at app//org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
-        at app//org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-        at app//org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
-        at app//org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
-        at java.base@11.0.11/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-        at java.base@11.0.11/java.lang.Thread.run(Thread.java:829)
-"MThread-1" daemon prio=5 tid=15 blocked
-java.lang.Thread.State: BLOCKED
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
-"SThread-5" daemon prio=5 tid=19 in Object.wait()
-java.lang.Thread.State: WAITING (on object monitor)
-        at java.base@11.0.11/jdk.internal.misc.Unsafe.park(Native Method)
-        at java.base@11.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
-        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
-        at java.base@11.0.11/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goSyncDeadlock(TestTimedOutTestsListener.java:114)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.syncLock(TestTimedOutTestsListener.java:103)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:90)
-"Reference Handler" daemon prio=10 tid=2 runnable
-java.lang.Thread.State: RUNNABLE
-        at java.base@11.0.11/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
-        at java.base@11.0.11/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
-        at java.base@11.0.11/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
-"MThread-2" daemon prio=5 tid=16 blocked
-java.lang.Thread.State: BLOCKED
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
-        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
 "Signal Dispatcher" daemon prio=9 tid=4 runnable
 java.lang.Thread.State: RUNNABLE
-"MThread-3" daemon prio=5 tid=17 blocked
+"MThread-1" daemon prio=5 tid=15 blocked
 java.lang.Thread.State: BLOCKED
         at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
         at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
@@ -129,34 +34,129 @@ java.lang.Thread.State: TIMED_WAITING
         at app//org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
         at app//org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
         at app//org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+"Reference Handler" daemon prio=10 tid=2 runnable
+java.lang.Thread.State: RUNNABLE
+        at java.base@11.0.11/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+        at java.base@11.0.11/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
+        at java.base@11.0.11/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
+"Common-Cleaner" daemon prio=8 tid=11 timed_waiting
+java.lang.Thread.State: TIMED_WAITING
+        at java.base@11.0.11/java.lang.Object.wait(Native Method)
+        at java.base@11.0.11/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+        at java.base@11.0.11/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
+        at java.base@11.0.11/java.lang.Thread.run(Thread.java:829)
+        at java.base@11.0.11/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:134)
+"SThread-6" daemon prio=5 tid=20 in Object.wait()
+java.lang.Thread.State: WAITING (on object monitor)
+        at java.base@11.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+        at java.base@11.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
+        at java.base@11.0.11/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goSyncDeadlock(TestTimedOutTestsListener.java:114)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.syncLock(TestTimedOutTestsListener.java:103)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:90)
+"surefire-forkedjvm-command-thread" daemon prio=5 tid=13 runnable
+java.lang.Thread.State: RUNNABLE
+        at java.base@11.0.11/java.io.FileInputStream.readBytes(Native Method)
+        at java.base@11.0.11/java.io.FileInputStream.read(FileInputStream.java:279)
+        at java.base@11.0.11/java.io.BufferedInputStream.read1(BufferedInputStream.java:290)
+        at java.base@11.0.11/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+        at java.base@11.0.11/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+        at java.base@11.0.11/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+        at java.base@11.0.11/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+        at app//org.apache.maven.surefire.api.util.internal.Channels$3.readImpl(Channels.java:214)
+        at app//org.apache.maven.surefire.api.util.internal.AbstractNoninterruptibleReadableChannel.read(AbstractNoninterruptibleReadableChannel.java:54)
+        at app//org.apache.maven.surefire.booter.spi.LegacyMasterProcessChannelDecoder.decode(LegacyMasterProcessChannelDecoder.java:80)
+        at app//org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:343)
+        at java.base@11.0.11/java.lang.Thread.run(Thread.java:829)
+"MThread-3" daemon prio=5 tid=17 blocked
+java.lang.Thread.State: BLOCKED
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
+"SThread-5" daemon prio=5 tid=19 in Object.wait()
+java.lang.Thread.State: WAITING (on object monitor)
+        at java.base@11.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+        at java.base@11.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
+        at java.base@11.0.11/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goSyncDeadlock(TestTimedOutTestsListener.java:114)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.syncLock(TestTimedOutTestsListener.java:103)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:90)
+"Time-limited test" daemon prio=5 tid=14 runnable
+java.lang.Thread.State: RUNNABLE
+        at java.base@11.0.11/java.lang.Thread.dumpThreads(Native Method)
+        at java.base@11.0.11/java.lang.Thread.getAllStackTraces(Thread.java:1653)
+        at app//org.apache.bookkeeper.common.testing.util.TimedOutTestsListener.buildThreadDump(TimedOutTestsListener.java:86)
+        at app//org.apache.bookkeeper.common.testing.util.TimedOutTestsListener.buildThreadDiagnosticString(TimedOutTestsListener.java:72)
+        at app//org.apache.bookkeeper.common.testing.util.TimedOutTestsListener.testFailure(TimedOutTestsListener.java:61)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener.testThreadDumpAndDeadlocks(TestTimedOutTestsListener.java:165)
+        at java.base@11.0.11/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at java.base@11.0.11/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+        at java.base@11.0.11/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.base@11.0.11/java.lang.reflect.Method.invoke(Method.java:566)
+        at app//org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+        at app//org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+        at app//org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+        at app//org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+        at app//org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+        at app//org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+        at java.base@11.0.11/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+        at java.base@11.0.11/java.lang.Thread.run(Thread.java:829)
+"MThread-2" daemon prio=5 tid=16 blocked
+java.lang.Thread.State: BLOCKED
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
+"Finalizer" daemon prio=8 tid=3 in Object.wait()
+java.lang.Thread.State: WAITING (on object monitor)
+        at java.base@11.0.11/java.lang.Object.wait(Native Method)
+        at java.base@11.0.11/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+        at java.base@11.0.11/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+        at java.base@11.0.11/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
+"SThread-4" daemon prio=5 tid=18 in Object.wait()
+java.lang.Thread.State: WAITING (on object monitor)
+        at java.base@11.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+        at java.base@11.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
+        at java.base@11.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
+        at java.base@11.0.11/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goSyncDeadlock(TestTimedOutTestsListener.java:114)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.syncLock(TestTimedOutTestsListener.java:103)
+        at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:90)
 
 ====> DEADLOCKS DETECTED <====
 
-"MThread-1" Id=15 in BLOCKED on lock=org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@565ed100
+"MThread-1" Id=15 in BLOCKED on lock=org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@23e338ef
      owned by MThread-2 Id=16
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
-      - locked org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@fe95dd1
+      - locked org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@7760c335
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
 
     Locked synchronizers: count = 0
 
 
-"MThread-2" Id=16 in BLOCKED on lock=org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@186c0537
+"MThread-2" Id=16 in BLOCKED on lock=org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@f7a0150
      owned by MThread-3 Id=17
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
-      - locked org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@565ed100
+      - locked org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@23e338ef
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
 
     Locked synchronizers: count = 0
 
 
-"MThread-3" Id=17 in BLOCKED on lock=org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@fe95dd1
+"MThread-3" Id=17 in BLOCKED on lock=org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@7760c335
      owned by MThread-1 Id=15
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.goMonitorDeadlock(TestTimedOutTestsListener.java:134)
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.monitorLock(TestTimedOutTestsListener.java:124)
-      - locked org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@186c0537
+      - locked org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$Monitor@f7a0150
     at app//org.apache.bookkeeper.common.testing.util.TestTimedOutTestsListener$Deadlock$DeadlockThread.run(TestTimedOutTestsListener.java:92)
 
     Locked synchronizers: count = 0

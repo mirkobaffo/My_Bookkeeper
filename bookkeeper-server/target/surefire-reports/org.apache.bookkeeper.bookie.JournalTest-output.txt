@@ -1,0 +1,1 @@
+2021-08-12 20:18:14,925 - INFO  - [main:JournalChannel@157] - Opening journal /var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/bookie11535861222437012937journal/1.txn
