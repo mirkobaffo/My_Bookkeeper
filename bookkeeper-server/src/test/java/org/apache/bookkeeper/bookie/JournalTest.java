@@ -1,4 +1,4 @@
-package org.apache.bookkeeper.bookie.storage.ldb;
+package org.apache.bookkeeper.bookie;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
