@@ -1,2 +1,2 @@
-2021-08-11 14:14:53,012 - INFO  - [main:RebuildDBLedgerLocationsIndexCommand@46] - === Rebuilding bookie index ===
-2021-08-11 14:14:53,021 - INFO  - [main:RebuildDBLedgerLocationsIndexCommand@53] - -- Done rebuilding bookie index --
+2021-08-11 15:38:13,475 - INFO  - [main:RebuildDBLedgerLocationsIndexCommand@46] - === Rebuilding bookie index ===
+2021-08-11 15:38:13,483 - INFO  - [main:RebuildDBLedgerLocationsIndexCommand@53] - -- Done rebuilding bookie index --

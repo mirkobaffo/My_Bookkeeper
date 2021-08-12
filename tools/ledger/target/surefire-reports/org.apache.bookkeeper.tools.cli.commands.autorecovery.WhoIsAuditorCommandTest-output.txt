@@ -1,1 +1,0 @@
-2021-08-11 14:12:28,144 - INFO  - [main:WhoIsAuditorCommand@81] - Auditor: 2ef674d6-adf9-4c2d-bc93-d1fa12506f6f
