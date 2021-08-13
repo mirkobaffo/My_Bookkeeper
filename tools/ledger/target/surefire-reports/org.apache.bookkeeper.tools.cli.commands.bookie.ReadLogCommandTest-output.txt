@@ -1,4 +1,4 @@
-2021-08-11 15:38:00,664 - ERROR - [main:ReadLogCommand@117] - Missing entry log id or entry log file name
+2021-08-12 20:21:32,469 - ERROR - [main:ReadLogCommand@117] - Missing entry log id or entry log file name
 Scan an entry file and format the entries into readable format.
 
 Usage:  readlog [flags]
@@ -36,6 +36,6 @@ Flags:
     -h, --help
         Display help information
 
-2021-08-11 15:38:00,701 - INFO  - [main:ReadLogCommand@286] - Scan entry log 1 (1.log)
-2021-08-11 15:38:00,724 - INFO  - [main:ReadLogCommand@286] - Scan entry log 1 (1.log)
+2021-08-12 20:21:32,505 - INFO  - [main:ReadLogCommand@286] - Scan entry log 1 (1.log)
+2021-08-12 20:21:32,528 - INFO  - [main:ReadLogCommand@286] - Scan entry log 1 (1.log)
 ERROR: StartPosition of the range should be lesser than or equal to EndPosition

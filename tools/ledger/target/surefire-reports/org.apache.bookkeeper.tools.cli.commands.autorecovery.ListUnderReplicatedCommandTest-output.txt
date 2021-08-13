@@ -1,0 +1,15 @@
+2021-08-12 20:19:13,952 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-12 20:19:14,360 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-12 20:19:14,362 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-12 20:19:14,409 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-12 20:19:14,410 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-12 20:19:14,421 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-12 20:19:14,421 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-12 20:19:14,433 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-12 20:19:14,433 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-12 20:19:14,435 - INFO  - [main:ListUnderReplicatedCommand@154] - 	MissingReplica : replica
+2021-08-12 20:19:14,447 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-12 20:19:14,447 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1
+2021-08-12 20:19:14,455 - INFO  - [main:ListUnderReplicatedCommand@162] - 	ReplicationWorkerId : test
+2021-08-12 20:19:14,464 - INFO  - [main:ListUnderReplicatedCommand@147] - 1
+2021-08-12 20:19:14,465 - INFO  - [main:ListUnderReplicatedCommand@150] - 	Ctime : 1

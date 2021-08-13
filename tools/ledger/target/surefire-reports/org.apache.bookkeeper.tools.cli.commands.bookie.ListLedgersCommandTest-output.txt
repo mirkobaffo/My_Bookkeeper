@@ -1,1 +1,1 @@
-2021-08-11 15:37:23,640 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-12 20:20:55,532 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
