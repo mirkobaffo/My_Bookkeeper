@@ -1,20 +1,20 @@
-2021-08-23 11:18:10,241 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-23 11:18:10,414 - INFO  - [main:RecoverCommand@145] - Constructing admin
-2021-08-23 11:18:10,422 - INFO  - [main:RecoverCommand@148] - Construct admin : Mock for BookKeeperAdmin, hashCode: 1541300552
-2021-08-23 11:18:10,422 - ERROR - [main:RecoverCommand@166] - NOTE: Bookies in inspection list are marked with '*'.
-2021-08-23 11:18:10,427 - INFO  - [main:RecoverCommand@168] - ledger 1 : null
-2021-08-23 11:18:10,430 - INFO  - [main:RecoverCommand@187] - 1:	
-2021-08-23 11:18:10,443 - INFO  - [main:RecoverCommand@190] - 127.0.0.1:8000
-2021-08-23 11:18:10,443 - INFO  - [main:RecoverCommand@192] - *
-2021-08-23 11:18:10,444 - INFO  - [main:RecoverCommand@197] -  
-2021-08-23 11:18:10,444 - INFO  - [main:RecoverCommand@199] - 
-2021-08-23 11:18:10,444 - INFO  - [main:RecoverCommand@171] - summary: [
-2021-08-23 11:18:10,445 - INFO  - [main:RecoverCommand@173] - 1=1, 
-2021-08-23 11:18:10,448 - INFO  - [main:RecoverCommand@175] - ]
-2021-08-23 11:18:10,449 - INFO  - [main:RecoverCommand@176] - 
-2021-08-23 11:18:10,450 - ERROR - [main:RecoverCommand@178] - Done
-2021-08-23 11:18:10,496 - ERROR - [main:RecoverCommand@131] - BookieSrcs has invalid bookie id format: $nonvalidbookieid:8001
-2021-08-23 11:18:10,513 - INFO  - [main:RecoverCommand@145] - Constructing admin
-2021-08-23 11:18:10,514 - INFO  - [main:RecoverCommand@148] - Construct admin : Mock for BookKeeperAdmin, hashCode: 1522943667
-2021-08-23 11:18:10,532 - INFO  - [main:RecoverCommand@145] - Constructing admin
-2021-08-23 11:18:10,533 - INFO  - [main:RecoverCommand@148] - Construct admin : Mock for BookKeeperAdmin, hashCode: 1253641473
+2021-08-23 12:13:07,312 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-23 12:13:07,492 - ERROR - [main:RecoverCommand@131] - BookieSrcs has invalid bookie id format: $nonvalidbookieid:8001
+2021-08-23 12:13:07,524 - INFO  - [main:RecoverCommand@145] - Constructing admin
+2021-08-23 12:13:07,541 - INFO  - [main:RecoverCommand@148] - Construct admin : Mock for BookKeeperAdmin, hashCode: 432142068
+2021-08-23 12:13:07,542 - ERROR - [main:RecoverCommand@166] - NOTE: Bookies in inspection list are marked with '*'.
+2021-08-23 12:13:07,545 - INFO  - [main:RecoverCommand@168] - ledger 1 : null
+2021-08-23 12:13:07,548 - INFO  - [main:RecoverCommand@187] - 1:	
+2021-08-23 12:13:07,571 - INFO  - [main:RecoverCommand@190] - 127.0.0.1:8000
+2021-08-23 12:13:07,572 - INFO  - [main:RecoverCommand@192] - *
+2021-08-23 12:13:07,572 - INFO  - [main:RecoverCommand@197] -  
+2021-08-23 12:13:07,572 - INFO  - [main:RecoverCommand@199] - 
+2021-08-23 12:13:07,572 - INFO  - [main:RecoverCommand@171] - summary: [
+2021-08-23 12:13:07,574 - INFO  - [main:RecoverCommand@173] - 1=1, 
+2021-08-23 12:13:07,577 - INFO  - [main:RecoverCommand@175] - ]
+2021-08-23 12:13:07,582 - INFO  - [main:RecoverCommand@176] - 
+2021-08-23 12:13:07,582 - ERROR - [main:RecoverCommand@178] - Done
+2021-08-23 12:13:07,665 - INFO  - [main:RecoverCommand@145] - Constructing admin
+2021-08-23 12:13:07,666 - INFO  - [main:RecoverCommand@148] - Construct admin : Mock for BookKeeperAdmin, hashCode: 1522943667
+2021-08-23 12:13:07,690 - INFO  - [main:RecoverCommand@145] - Constructing admin
+2021-08-23 12:13:07,691 - INFO  - [main:RecoverCommand@148] - Construct admin : Mock for BookKeeperAdmin, hashCode: 1253641473

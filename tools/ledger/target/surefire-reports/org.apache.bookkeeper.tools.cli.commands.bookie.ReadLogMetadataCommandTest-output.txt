@@ -1,3 +1,3 @@
-2021-08-23 11:19:26,724 - ERROR - [main:ReadLogMetadataCommand@100] - Missing entry log id or entry log file name
-2021-08-23 11:19:26,746 - INFO  - [main:ReadLogMetadataCommand@130] - Print entryLogMetadata of entrylog 1 (1.log)
-2021-08-23 11:19:26,767 - INFO  - [main:ReadLogMetadataCommand@134] - --------- Lid=1, TotalSizeOfEntriesOfLedger=1  ---------
+2021-08-23 12:14:29,106 - ERROR - [main:ReadLogMetadataCommand@100] - Missing entry log id or entry log file name
+2021-08-23 12:14:29,133 - INFO  - [main:ReadLogMetadataCommand@130] - Print entryLogMetadata of entrylog 1 (1.log)
+2021-08-23 12:14:29,140 - INFO  - [main:ReadLogMetadataCommand@134] - --------- Lid=1, TotalSizeOfEntriesOfLedger=1  ---------

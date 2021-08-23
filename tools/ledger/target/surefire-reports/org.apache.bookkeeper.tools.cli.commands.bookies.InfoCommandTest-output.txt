@@ -1,4 +1,4 @@
-2021-08-23 11:18:30,896 - INFO  - [main:InfoCommand@85] - Free disk space info:
-2021-08-23 11:18:30,928 - INFO  - [main:InfoCommand@90] - BookieID:localhost:9999, IP:127.0.0.1, Port:9999, Hostname:localhost:	Free: 0	Total: 0
-2021-08-23 11:18:30,935 - INFO  - [main:InfoCommand@109] - Total free disk space in the cluster:	0
-2021-08-23 11:18:30,936 - INFO  - [main:InfoCommand@110] - Total disk capacity in the cluster:	0
+2021-08-23 12:13:32,353 - INFO  - [main:InfoCommand@85] - Free disk space info:
+2021-08-23 12:13:32,391 - INFO  - [main:InfoCommand@90] - BookieID:localhost:9999, IP:127.0.0.1, Port:9999, Hostname:localhost:	Free: 0	Total: 0
+2021-08-23 12:13:32,408 - INFO  - [main:InfoCommand@109] - Total free disk space in the cluster:	0
+2021-08-23 12:13:32,410 - INFO  - [main:InfoCommand@110] - Total disk capacity in the cluster:	0

@@ -40,6 +40,7 @@ public class JournalTest {
     File journalDir;
     //JournalIdFilter filter;
     long journalId;
+    //segno su dove dobbiamo leggere
     long journalPos;
     long logId;
     long preAllocSize;

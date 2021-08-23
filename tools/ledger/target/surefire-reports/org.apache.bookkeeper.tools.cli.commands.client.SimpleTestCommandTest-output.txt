@@ -1,5 +1,5 @@
-2021-08-23 11:19:16,797 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-23 11:19:17,093 - INFO  - [main:SimpleTestCommand@87] - Ledger ID: 0
-2021-08-23 11:19:17,096 - INFO  - [main:SimpleTestCommand@97] - 10 entries written to ledger 0
-2021-08-23 11:19:17,138 - INFO  - [main:SimpleTestCommand@87] - Ledger ID: 0
-2021-08-23 11:19:17,139 - INFO  - [main:SimpleTestCommand@97] - 10 entries written to ledger 0
+2021-08-23 12:14:18,817 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-23 12:14:19,127 - INFO  - [main:SimpleTestCommand@87] - Ledger ID: 0
+2021-08-23 12:14:19,130 - INFO  - [main:SimpleTestCommand@97] - 10 entries written to ledger 0
+2021-08-23 12:14:19,174 - INFO  - [main:SimpleTestCommand@87] - Ledger ID: 0
+2021-08-23 12:14:19,174 - INFO  - [main:SimpleTestCommand@97] - 10 entries written to ledger 0

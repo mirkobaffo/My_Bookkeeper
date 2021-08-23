@@ -1,2 +1,2 @@
-2021-08-23 11:19:58,613 - INFO  - [main:RegenerateInterleavedStorageIndexFileCommand@115] - === Rebuilding index file for [1, 2, 3] ===
-2021-08-23 11:19:58,624 - INFO  - [main:RegenerateInterleavedStorageIndexFileCommand@121] - -- Done rebuilding index file for [1, 2, 3] --
+2021-08-23 12:15:00,573 - INFO  - [main:RegenerateInterleavedStorageIndexFileCommand@115] - === Rebuilding index file for [1, 2, 3] ===
+2021-08-23 12:15:00,583 - INFO  - [main:RegenerateInterleavedStorageIndexFileCommand@121] - -- Done rebuilding index file for [1, 2, 3] --
