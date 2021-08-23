@@ -1,5 +1,5 @@
-2021-08-12 20:20:17,413 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-12 20:20:17,882 - ERROR - [main:AdminCommand@140] - Invalid command !
+2021-08-23 11:18:49,636 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-23 11:18:50,129 - ERROR - [main:AdminCommand@140] - Invalid command !
 Command to update cookie
 
 Usage:  admin [flags]
@@ -28,7 +28,7 @@ Flags:
     -h, --help
         Display help information
 
-2021-08-12 20:20:18,012 - INFO  - [main:AdminCommand@287] - Listing local Cookie Files of Bookie: localhost:9000
-2021-08-12 20:20:18,013 - INFO  - [main:AdminCommand@289] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit14886768266721670804/VERSION
-2021-08-12 20:20:18,032 - INFO  - [main:AdminCommand@282] - Deleted Local Cookies of Bookie: localhost:9000
-2021-08-12 20:20:18,033 - INFO  - [main:AdminCommand@314] - Deleted Cookie from metadata store for Bookie: localhost:9000
+2021-08-23 11:18:50,292 - INFO  - [main:AdminCommand@287] - Listing local Cookie Files of Bookie: localhost:9000
+2021-08-23 11:18:50,293 - INFO  - [main:AdminCommand@289] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit13049102177949794358/VERSION
+2021-08-23 11:18:50,317 - INFO  - [main:AdminCommand@282] - Deleted Local Cookies of Bookie: localhost:9000
+2021-08-23 11:18:50,318 - INFO  - [main:AdminCommand@314] - Deleted Cookie from metadata store for Bookie: localhost:9000

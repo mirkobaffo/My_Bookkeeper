@@ -1,2 +1,2 @@
-2021-08-12 20:20:47,532 - INFO  - [main:ConvertToDBStorageCommand@78] - === Converting to DbLedgerStorage ===
-2021-08-12 20:20:47,552 - INFO  - [main:ConvertToDBStorageCommand@113] - ---- Done Converting ----
+2021-08-23 11:19:22,557 - INFO  - [main:ConvertToDBStorageCommand@78] - === Converting to DbLedgerStorage ===
+2021-08-23 11:19:22,577 - INFO  - [main:ConvertToDBStorageCommand@113] - ---- Done Converting ----

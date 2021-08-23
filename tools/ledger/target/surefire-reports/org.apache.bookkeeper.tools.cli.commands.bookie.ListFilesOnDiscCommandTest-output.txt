@@ -1,76 +1,76 @@
 over
-2021-08-12 20:21:41,791 - INFO  - [main:ListFilesOnDiscCommand@82] - --------- Printing the list of Journal Files ---------
-2021-08-12 20:21:41,798 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-0823475166134148621.txn
-2021-08-12 20:21:41,799 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-18667768954070815840.txn
-2021-08-12 20:21:41,800 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-29416753783094137117.txn
-2021-08-12 20:21:41,800 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-313783242453005068276.txn
-2021-08-12 20:21:41,800 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-418279689889381875553.txn
-2021-08-12 20:21:41,800 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-57721540363605649751.txn
-2021-08-12 20:21:41,801 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-64435621751858633882.txn
-2021-08-12 20:21:41,801 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-75768685783655981227.txn
-2021-08-12 20:21:41,801 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-83587520852720200878.txn
-2021-08-12 20:21:41,801 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit9166541818935255624/journals/journal-911205293893394238405.txn
-2021-08-12 20:21:41,801 - INFO  - [main:ListFilesOnDiscCommand@86] - 
+2021-08-23 11:20:18,582 - INFO  - [main:ListFilesOnDiscCommand@82] - --------- Printing the list of Journal Files ---------
+2021-08-23 11:20:18,589 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-06496900516270262469.txn
+2021-08-23 11:20:18,589 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-110802758946925362609.txn
+2021-08-23 11:20:18,590 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-212154425994380098474.txn
+2021-08-23 11:20:18,590 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-39993770543814590989.txn
+2021-08-23 11:20:18,591 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-413575720363401297785.txn
+2021-08-23 11:20:18,591 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-55064712825078561195.txn
+2021-08-23 11:20:18,592 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-613217957369904776262.txn
+2021-08-23 11:20:18,592 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-717088128326677111875.txn
+2021-08-23 11:20:18,592 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-815274830067540140929.txn
+2021-08-23 11:20:18,592 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10501532582191212254/journals/journal-914953800107945269674.txn
+2021-08-23 11:20:18,593 - INFO  - [main:ListFilesOnDiscCommand@86] - 
 over
-2021-08-12 20:21:41,827 - INFO  - [main:ListFilesOnDiscCommand@82] - --------- Printing the list of Journal Files ---------
-2021-08-12 20:21:41,827 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-07279245951466741089.txn
-2021-08-12 20:21:41,827 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-17724508023902354639.txn
-2021-08-12 20:21:41,827 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-24790469289293412681.txn
-2021-08-12 20:21:41,829 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-37298244759573435361.txn
-2021-08-12 20:21:41,829 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-42268380245096448674.txn
-2021-08-12 20:21:41,829 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-52874416671279526529.txn
-2021-08-12 20:21:41,829 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-67241720760555055329.txn
-2021-08-12 20:21:41,830 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-7997570797937566950.txn
-2021-08-12 20:21:41,831 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-86794231088083042333.txn
-2021-08-12 20:21:41,831 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit7878123520835737714/journals/journal-91941664291451469245.txn
-2021-08-12 20:21:41,831 - INFO  - [main:ListFilesOnDiscCommand@86] - 
+2021-08-23 11:20:18,617 - INFO  - [main:ListFilesOnDiscCommand@82] - --------- Printing the list of Journal Files ---------
+2021-08-23 11:20:18,618 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-0383095200082804801.txn
+2021-08-23 11:20:18,618 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-16114817824637494671.txn
+2021-08-23 11:20:18,619 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-217383213100646913004.txn
+2021-08-23 11:20:18,620 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-3150795341477614370.txn
+2021-08-23 11:20:18,620 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-45151927332587512752.txn
+2021-08-23 11:20:18,621 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-58846972665396864635.txn
+2021-08-23 11:20:18,621 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-617551719503221897849.txn
+2021-08-23 11:20:18,622 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-74597323148497182628.txn
+2021-08-23 11:20:18,622 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-83102763040447920189.txn
+2021-08-23 11:20:18,622 - INFO  - [main:ListFilesOnDiscCommand@84] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit12163306771191414365/journals/journal-97257502823974575800.txn
+2021-08-23 11:20:18,622 - INFO  - [main:ListFilesOnDiscCommand@86] - 
 over
-2021-08-12 20:21:41,855 - INFO  - [main:ListFilesOnDiscCommand@91] - --------- Printing the list of EntryLog/Ledger Files ---------
-2021-08-12 20:21:41,855 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-04519415172351557561.log
-2021-08-12 20:21:41,855 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-115612190769753108262.log
-2021-08-12 20:21:41,855 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-218373376502103699694.log
-2021-08-12 20:21:41,855 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-315002730185466830930.log
-2021-08-12 20:21:41,856 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-43013390540536728129.log
-2021-08-12 20:21:41,856 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-513428791040756963407.log
-2021-08-12 20:21:41,856 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-612683727093892134697.log
-2021-08-12 20:21:41,856 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-715618349735503665312.log
-2021-08-12 20:21:41,856 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-85286332489467863184.log
-2021-08-12 20:21:41,856 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit4750752509613043862/ledgers/ledger-99957766190245682825.log
-2021-08-12 20:21:41,857 - INFO  - [main:ListFilesOnDiscCommand@95] - 
+2021-08-23 11:20:18,642 - INFO  - [main:ListFilesOnDiscCommand@91] - --------- Printing the list of EntryLog/Ledger Files ---------
+2021-08-23 11:20:18,642 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-01032469290261188710.log
+2021-08-23 11:20:18,643 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-19201664426942938581.log
+2021-08-23 11:20:18,643 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-23204191764873579769.log
+2021-08-23 11:20:18,643 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-32424724820144848815.log
+2021-08-23 11:20:18,645 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-4615103838240949721.log
+2021-08-23 11:20:18,647 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-53188671783655789047.log
+2021-08-23 11:20:18,647 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-69737898024178008924.log
+2021-08-23 11:20:18,647 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-715266957134979884566.log
+2021-08-23 11:20:18,647 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-83846702714848284310.log
+2021-08-23 11:20:18,647 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit16239297511514548383/ledgers/ledger-912251435312319726024.log
+2021-08-23 11:20:18,648 - INFO  - [main:ListFilesOnDiscCommand@95] - 
 over
-2021-08-12 20:21:41,875 - INFO  - [main:ListFilesOnDiscCommand@91] - --------- Printing the list of EntryLog/Ledger Files ---------
-2021-08-12 20:21:41,876 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-013675569796997096125.log
-2021-08-12 20:21:41,876 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-16377557520200562461.log
-2021-08-12 20:21:41,876 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-26557134058129331157.log
-2021-08-12 20:21:41,876 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-318217531610875967741.log
-2021-08-12 20:21:41,876 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-411565635270041784592.log
-2021-08-12 20:21:41,877 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-53745689915047904009.log
-2021-08-12 20:21:41,877 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-66542407042866914298.log
-2021-08-12 20:21:41,877 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-79576367909795023704.log
-2021-08-12 20:21:41,877 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-82154853932813832285.log
-2021-08-12 20:21:41,877 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10253652048234263869/ledgers/ledger-95873346469207992041.log
-2021-08-12 20:21:41,877 - INFO  - [main:ListFilesOnDiscCommand@95] - 
+2021-08-23 11:20:18,668 - INFO  - [main:ListFilesOnDiscCommand@91] - --------- Printing the list of EntryLog/Ledger Files ---------
+2021-08-23 11:20:18,668 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-017453516704412522740.log
+2021-08-23 11:20:18,668 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-11292876431388339828.log
+2021-08-23 11:20:18,668 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-28232079013060037023.log
+2021-08-23 11:20:18,668 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-32574988227671372916.log
+2021-08-23 11:20:18,668 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-46930392918118671035.log
+2021-08-23 11:20:18,669 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-512741416284385018077.log
+2021-08-23 11:20:18,669 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-612424450171462754846.log
+2021-08-23 11:20:18,669 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-714459659425575024666.log
+2021-08-23 11:20:18,669 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-818382680979495817895.log
+2021-08-23 11:20:18,669 - INFO  - [main:ListFilesOnDiscCommand@93] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit1014177665563614415/ledgers/ledger-910969999279783946781.log
+2021-08-23 11:20:18,670 - INFO  - [main:ListFilesOnDiscCommand@95] - 
 over
-2021-08-12 20:21:41,896 - INFO  - [main:ListFilesOnDiscCommand@100] - --------- Printing the list of Index Files ---------
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-02524815199077758238.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-115315910424958804131.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-218020659813127495580.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-313198720690831736444.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-43721251964092471115.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-55084892803622595302.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-69352790983193827015.idx
-2021-08-12 20:21:41,898 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-715243016680102151664.idx
-2021-08-12 20:21:41,899 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-8362614648879472747.idx
-2021-08-12 20:21:41,899 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit415633415937260709/index/index-912934845143963165522.idx
+2021-08-23 11:20:18,687 - INFO  - [main:ListFilesOnDiscCommand@100] - --------- Printing the list of Index Files ---------
+2021-08-23 11:20:18,687 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-02510162664290591081.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-110386364516181678482.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-23976092966318351522.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-315566989359710886521.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-49911042899603283792.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-58704704681487170164.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-61988062958799613076.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-714155133012567242685.idx
+2021-08-23 11:20:18,688 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-82606958950550097828.idx
+2021-08-23 11:20:18,689 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit5010770776164360557/index/index-918225130810137573461.idx
 over
-2021-08-12 20:21:41,915 - INFO  - [main:ListFilesOnDiscCommand@100] - --------- Printing the list of Index Files ---------
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-01119405493442571367.idx
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-115786426994559250737.idx
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-213246668450031597711.idx
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-314654336188733226487.idx
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-415932166937260398324.idx
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-59211085076600811826.idx
-2021-08-12 20:21:41,916 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-616424156596105805962.idx
-2021-08-12 20:21:41,917 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-79294508081350963292.idx
-2021-08-12 20:21:41,917 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-810520215992296037891.idx
-2021-08-12 20:21:41,917 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit15899044957494462567/index/index-98454350113315049289.idx
+2021-08-23 11:20:18,705 - INFO  - [main:ListFilesOnDiscCommand@100] - --------- Printing the list of Index Files ---------
+2021-08-23 11:20:18,706 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-015594850931412202543.idx
+2021-08-23 11:20:18,706 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-13093499816711834979.idx
+2021-08-23 11:20:18,706 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-213628982251302152861.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-39177878884523310915.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-410627911380097180227.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-511220413009688896072.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-61939644626196763325.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-712763290892110983644.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-82462033079832633451.idx
+2021-08-23 11:20:18,707 - INFO  - [main:ListFilesOnDiscCommand@102] - /private/var/folders/__/12bl209d1ls4z283rflhl8lm0000gn/T/junit10856999617310730006/index/index-95871819259060602380.idx

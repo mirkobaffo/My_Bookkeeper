@@ -1,6 +1,6 @@
-2021-08-12 20:19:09,791 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-12 20:19:10,024 - INFO  - [main:ToggleCommand@99] - Enabling autorecovery
-2021-08-12 20:19:10,058 - INFO  - [main:ToggleCommand@99] - Enabling autorecovery
-2021-08-12 20:19:10,068 - WARN  - [main:ToggleCommand@104] - Autorecovery already disabled. Doing nothing
-2021-08-12 20:19:10,077 - WARN  - [main:ToggleCommand@104] - Autorecovery already disabled. Doing nothing
-2021-08-12 20:19:10,088 - INFO  - [main:ToggleCommand@106] - Disabling autorecovery
+2021-08-23 11:17:35,801 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-23 11:17:36,047 - INFO  - [main:ToggleCommand@99] - Enabling autorecovery
+2021-08-23 11:17:36,080 - INFO  - [main:ToggleCommand@99] - Enabling autorecovery
+2021-08-23 11:17:36,090 - WARN  - [main:ToggleCommand@104] - Autorecovery already disabled. Doing nothing
+2021-08-23 11:17:36,099 - WARN  - [main:ToggleCommand@104] - Autorecovery already disabled. Doing nothing
+2021-08-23 11:17:36,110 - INFO  - [main:ToggleCommand@106] - Disabling autorecovery

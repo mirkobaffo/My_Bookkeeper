@@ -1,3 +1,3 @@
-2021-08-12 20:20:30,477 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
-2021-08-12 20:20:31,002 - INFO  - [main:LedgerMetaDataCommand@138] - ledgerID: 1
-2021-08-12 20:20:31,005 - INFO  - [main:LedgerMetaDataCommand@140] - Mock for LedgerMetadata, hashCode: 674882504
+2021-08-23 11:19:03,803 - INFO  - [main:MetadataDrivers@105] - BookKeeper metadata driver manager initialized
+2021-08-23 11:19:04,411 - INFO  - [main:LedgerMetaDataCommand@138] - ledgerID: 1
+2021-08-23 11:19:04,413 - INFO  - [main:LedgerMetaDataCommand@140] - Mock for LedgerMetadata, hashCode: 674882504

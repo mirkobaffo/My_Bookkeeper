@@ -18,4 +18,4 @@ Flags:
     -h, --help
         Display help information
 
-2021-08-12 20:19:48,510 - ERROR - [main:NukeExistingClusterCommand@82] - Either force option or instanceid should be specified (but no both)
+2021-08-23 11:18:18,719 - ERROR - [main:NukeExistingClusterCommand@82] - Either force option or instanceid should be specified (but no both)
