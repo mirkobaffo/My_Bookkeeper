@@ -970,6 +970,18 @@
         </executions>
       </plugin>
       <plugin>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <version>2.21.0</version>
+    <configuration>
+        <excludes>
+            <exclude>DataTest.java</exclude>
+        </excludes>
+        <includes>
+            <include>DataCheck.java</include>
+        </includes>
+    </configuration>
+</plugin>
+      <plugin>
         <groupId>org.apache.rat</groupId>
         <artifactId>apache-rat-plugin</artifactId>
         <version>${apache-rat-plugin.version}</version>
