@@ -265,6 +265,7 @@
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/client/BookKeeperAdmin.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/FileSystemUpgrade.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/util/BookKeeperConstants.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/client/ClientUtil.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerDescriptor.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/tools/cli/commands/package-info.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/meta/MetadataClientDriver.java
@@ -294,6 +295,7 @@
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/meta/MetadataBookieDriver.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/client/LedgerOpenOp.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/EntryLoggerAllocator.java
+/Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/conf/TestBKConfiguration.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/service/BookieStateService.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/Bookie.java
 /Users/mirko/git/My_Bookkeeper/bookkeeper-server/src/main/java/org/apache/bookkeeper/client/api/OpBuilder.java

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dependencies>
    <includePath signature="/Icirce-checksum/target/nar/javah-include /I../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include /I../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/darwin">
-      <source file="../../../../src/main/circe/include/int_types.h" lastModified="17ace64a42d">
+      <source file="../../../../src/main/circe/include/int_types.h" lastModified="17b727315f8">
       </source>
-      <source file="../../../../src/main/circe/cpp/gf2.hpp" lastModified="17ace64a045">
+      <source file="../../../../src/main/circe/cpp/gf2.hpp" lastModified="17b72731210">
          <include file="../../../../src/main/circe/include/int_types.h"/>
       </source>
-      <source file="../../../../src/main/circe/cpp/crc32c_sse42.cpp" lastModified="17ace64b3cc">
+      <source file="../../../../src/main/circe/cpp/crc32c_sse42.cpp" lastModified="17b72732598">
          <include file="../../../../src/main/circe/include/crc32c_sse42.hpp"/>
          <include file="../../../../src/main/circe/cpp/gf2.hpp"/>
       </source>
-      <source file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h" lastModified="17b724b92e2">
+      <source file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h" lastModified="17b72fc9be4">
          <include file="../../../../../../../../../Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/jni.h"/>
       </source>
-      <source file="../../../../src/main/circe/include/crc32c_sse42.hpp" lastModified="17ace649c5d">
+      <source file="../../../../src/main/circe/include/crc32c_sse42.hpp" lastModified="17b72730e28">
          <include file="../../../../src/main/circe/include/int_types.h"/>
       </source>
-      <source file="../../../../src/main/circe/cpp/crc32c_sse42_jni.cpp" lastModified="17ace64a044">
+      <source file="../../../../src/main/circe/cpp/crc32c_sse42_jni.cpp" lastModified="17b72731210">
          <include file="../../javah-include/com_scurrilous_circe_crc_Sse42Crc32C.h"/>
          <include file="../../../../src/main/circe/include/crc32c_sse42.hpp"/>
       </source>
