@@ -73,7 +73,7 @@ public class JournalTest {
     @Parameters 
     public static Collection<Object[]> configure() throws Exception{
         return Arrays.asList(new Object[][]{
-            {createTempDir("bookie", "journal"),1,1,1,4096,1024,1024,1,false,TestBKConfiguration.newServerConfiguration(),mock(LedgerDirsManager.class)}
+            {createTempDir("bookie", "journal"),1,1,1,4096,1024,1024,1,false,TestBKConfiguration.newServerConfiguration(),mock(LedgerDirsManager.class)},{createTempDir("bookie", "journal"),1,1,1,4096,1024,1024,-1,true,TestBKConfiguration.newServerConfiguration(),mock(LedgerDirsManager.class)},{createTempDir("bookie", "journal"),0,0,0,512,512,1024,1,false,TestBKConfiguration.newServerConfiguration().setBookieId("bookie"),mock(LedgerDirsManager.class)}
         });
     }
 

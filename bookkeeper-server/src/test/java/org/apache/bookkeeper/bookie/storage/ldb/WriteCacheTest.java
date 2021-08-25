@@ -40,8 +40,8 @@ public class WriteCacheTest {
         //questi prendono come argomenti solamente un long e un allocator, (il metodo put prende anche due id che metterò hardcoded)
         //ho deciso di aggiungere l'atttributo bufferSize per vedere se aggiungendo entry di dimensione diversa da quella della cache ci sarebbero stati problemi
 		return Arrays.asList(new Object[][] {
-			//{UnpooledByteBufAllocator.DEFAULT, 10*1024,1024},{UnpooledByteBufAllocator.DEFAULT, 1000 * 1024,1024},  {UnpooledByteBufAllocator.DEFAULT, 0,01 * 1024,1024}, {UnpooledByteBufAllocator.DEFAULT, 10*1024,512}, {UnpooledByteBufAllocator.DEFAULT, 10*1024,2048}
-			{UnpooledByteBufAllocator.DEFAULT, 10*1024,1024}
+			{UnpooledByteBufAllocator.DEFAULT, 10*1024,1024},{UnpooledByteBufAllocator.DEFAULT, 100 * 1024,1024},  {UnpooledByteBufAllocator.DEFAULT,  1024/10,1024}, {UnpooledByteBufAllocator.DEFAULT, 10*1024,512}, {UnpooledByteBufAllocator.DEFAULT, 10*1024,2048},
+			{UnpooledByteBufAllocator.DEFAULT, 1,1}
 		});
 	}
 
@@ -57,9 +57,7 @@ public class WriteCacheTest {
         ByteBuf entry1 = allocator.buffer(bufferSize);
         ByteBufUtil.writeUtf8(entry1, "entry-1");
         entry1.writerIndex(entry1.capacity());
-        System.out.println("sono qui");
         assertTrue(cache.isEmpty());
-        System.out.println("sono qua");
         assertEquals(0, cache.count());
         assertEquals(0, cache.size());
         cache.put(1, 1, entry1);
@@ -77,7 +75,7 @@ public class WriteCacheTest {
     }
 
     //da mettere ignore
-    @Test
+    /*@Test
     public void testForDeleteAndGet(){
         WriteCache cache = new WriteCache(allocator, maxCacheSize,bufferSize);
         ByteBuf entry = allocator.buffer(bufferSize);
@@ -89,11 +87,9 @@ public class WriteCacheTest {
             }
         }
         for(long c = 0; c <10; c ++) {
-             //assertEquals((cache.get(c,c)),);
              cache.deleteLedger(c);
-             //assertEquals((cache.get(c,c)),null);            
-    } 
+             //assertEquals((cache.getLastEntry(c)),null);
+    } */
     
 } 
    
-}
