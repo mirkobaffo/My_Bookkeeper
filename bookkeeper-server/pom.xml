@@ -76,6 +76,12 @@
       <version>${project.version}</version>
     </dependency>
     <dependency>
+      <groupId>org.pitest</groupId>
+      <artifactId>pitest-maven</artifactId>
+      <version> 1.5.1 </version>
+      <type>maven-plugin</type>
+    </dependency>
+    <dependency>
       <groupId>org.apache.bookkeeper</groupId>
       <artifactId>circe-checksum</artifactId>
       <version>${project.version}</version>
@@ -275,7 +281,21 @@
           <target>1.8</target>
         </configuration>
       </plugin>
-      
+      <plugin>
+        <groupId>org.pitest</groupId>
+        <artifactId>pitest-maven</artifactId>
+        <!--<version>LATEST</version>-->
+        <configuration>
+          <targetClasses>
+            <param>org.apache.bookkeeper.bookie.storage.ldb.WriteCache</param>
+            <param>org.apache.bookkeeper.bookie.Journal</param>
+          </targetClasses>
+          <targetTests>
+            <param> org.apache.bookkeeper.bookie.storage.ldb.WriteCacheTest</param>
+            <param>org.apache.bookkeeper.bookie.JournalTest</param>
+          </targetTests>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
   <profiles>
