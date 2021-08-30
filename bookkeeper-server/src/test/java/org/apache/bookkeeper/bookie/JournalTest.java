@@ -101,9 +101,7 @@ public class JournalTest {
         Journal journal = new Journal(0, journalDir, server, ledgerDirsManager);
         Journal.JournalScanner scanner = new DummyJournalScan();
     	List<Long> journalIds = journal.listJournalIds(journal.getJournalDirectory(), null);
-        //da capire perchè questo restituisce 0
-    	//assertEquals(journalIds.size(), 0);
         long off = journal.scanJournal(journalId,journalPos,scanner);
-        //assertTrue(off >= 0);
+        assertTrue(off >= 0);
     }
 }
